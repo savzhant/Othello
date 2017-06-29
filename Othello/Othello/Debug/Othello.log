@@ -1,0 +1,23 @@
+﻿  Board.cpp
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(15): warning C4305: 'initializing': truncation from '__int64' to 'const uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(15): warning C4309: 'initializing': truncation of constant value
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(16): warning C4305: 'initializing': truncation from '__int64' to 'const uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(16): warning C4309: 'initializing': truncation of constant value
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(17): warning C4305: 'initializing': truncation from 'unsigned __int64' to 'const uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(17): warning C4309: 'initializing': truncation of constant value
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(18): warning C4305: 'initializing': truncation from '__int64' to 'const uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(18): warning C4309: 'initializing': truncation of constant value
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(19): warning C4305: 'initializing': truncation from '__int64' to 'const uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(19): warning C4309: 'initializing': truncation of constant value
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(20): warning C4305: 'initializing': truncation from '__int64' to 'const uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(20): warning C4309: 'initializing': truncation of constant value
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(21): warning C4305: 'initializing': truncation from '__int64' to 'const uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(21): warning C4309: 'initializing': truncation of constant value
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(22): warning C4305: 'initializing': truncation from 'unsigned __int64' to 'const uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.h(22): warning C4309: 'initializing': truncation of constant value
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.cpp(6): warning C4305: '=': truncation from 'unsigned __int64' to 'uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.cpp(6): warning C4309: '=': truncation of constant value
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.cpp(7): warning C4305: '=': truncation from 'unsigned __int64' to 'uint16_t'
+c:\users\sophie\documents\visual studio 2017\projects\othello\othello\board.cpp(7): warning C4309: '=': truncation of constant value
+  Othello.vcxproj -> C:\Users\Sophie\Documents\Visual Studio 2017\Projects\Othello\Debug\Othello.exe
+  Othello.vcxproj -> C:\Users\Sophie\Documents\Visual Studio 2017\Projects\Othello\Debug\Othello.pdb (Partial PDB)

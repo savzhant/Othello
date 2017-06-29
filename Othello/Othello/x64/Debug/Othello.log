@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\sophie\desktop\ia reversi project\othello_static_vs_dynamical_weights_and_humain_player\othello\othello\main.cpp(223): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Othello.vcxproj -> C:\Users\Sophie\Desktop\IA REVERSI PROJECT\Othello_static_vs_dynamical_weights_AND_HUMAIN_PLAYER\Othello\x64\Debug\Othello.exe
+  Othello.vcxproj -> C:\Users\Sophie\Desktop\IA REVERSI PROJECT\Othello_static_vs_dynamical_weights_AND_HUMAIN_PLAYER\Othello\x64\Debug\Othello.pdb (Partial PDB)
